@@ -17,7 +17,8 @@ These tools are freely available to you:
 
 | Tool Name | Description |
 | --------- | --------- |
-| [MonteCarloCSV](https://github.com/LetPeopleWork/MonteCarloCSV) | A Python script to run Monte Carlo Simulations based on CSV file inputs from any system. |
-| [FlowMetricsCSV](https://github.com/LetPeopleWork/FlowMetricsCSV) | A Python script to create charts of your flow metrics based on CSV file inputs from any system. |
+| [MonteCarloCSV](https://github.com/LetPeopleWork/MonteCarloCSV) | A python module to run Monte Carlo Simulations based on CSV file inputs from any system. |
+| [FlowMetricsCSV](https://github.com/LetPeopleWork/FlowMetricsCSV) | A python module to create charts of your flow metrics based on CSV file inputs from any system. |
 | [AzureDevOpsFlowScripts](https://github.com/LetPeopleWork/AzureDevOpsFlowScripts) | A set of Python scripts to run Monte Carlo Simulations and calculate Work Item Age that hooks directly into your Azure DevOps System. |
+| [jiraflow](https://github.com/LetPeopleWork/jiraflow) | A python module to generate Flow Metric Charts and run Forecasts using MCS directly based on data that will be fetched from Jira via JQL |
 | [Lighthouse](https://github.com/LetPeopleWork/Lighthouse) | Lighthouse is a tool that helps you run probabilistic forecasts using Monte Carlo Simulations in a continuous and simple way. It connects to your Work Tracking Tool (currently Jira and Azure DevOps are supported) and will automatically update your team's Throughput and your project's forecasted delivery dates. |
